@@ -81,8 +81,9 @@ See individual repos for full setup:
 
 ## Screenshots
 
-<!-- Add screenshots here -->
-
+![EC2 Instances](docs/ec2-instances-running.png)
+![Frontend Service](docs/netflix-frontend-service.png)
+```
 ---
 
 ## Author
