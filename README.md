@@ -74,16 +74,19 @@ server provisioning to production configuration was implemented independently.
 
 See individual repos for full setup:
 
-- [netflix-backend](https://github.com/elizabeth-ikechukwu/netflix-backend)
-- [netflix-frontend](https://github.com/elizabeth-ikechukwu/netflix-frontend)
+**Backend repo:** https://github.com/elizabeth-ikechukwu/netflix_backend  
+**Frontend repo:** https://github.com/elizabeth-ikechukwu/netflix_frontend
 
 ---
-
 ## Screenshots
 
+### All 3 EC2 Instances Running
 ![EC2 Instances](docs/ec2-instances-running.png)
+*Three separate Ubuntu EC2 instances — frontend, backend, and database servers*
+
+### Frontend Service Active
 ![Frontend Service](docs/netflix-frontend-service.png)
-```
+*systemd confirming netflix-frontend service is active and running on port 3000*
 ---
 
 ## Author
